@@ -8,7 +8,7 @@ email_password = '2FA password here'
 email_receiver = ''
 
 # Set the subject and body of the email
-subject = 'STFU'
+subject = 'Hello'
 body = """
 STFU
 """
